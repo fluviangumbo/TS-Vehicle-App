@@ -18,7 +18,7 @@ They can access the GitHub repository.
 
 ## Usage
 
-Here is a video walkthrough:
+Here is a video walkthrough: https://drive.google.com/file/d/1wOBdVAZCZvDswIXb9VBsCWqdluhJDedX/view?usp=sharing
 
 ## License
 
